@@ -1,6 +1,6 @@
 ---
 layout: home
-title: FDongFDong Gitbook Theme
+title: FDongFDong Gitbook
 permalink: /
 ---
 
@@ -12,16 +12,7 @@ Github Pages: [https://github.com/FdongFdong](https://github.com/FdongFdong)
 
 ## Email
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
-
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
+abnormal5626@gmail.com
 
 ## How to Get Started
 
@@ -106,18 +97,6 @@ You can add extra CSS or JavaScript references using configuration collections:
 - extra_header_js: for additional scripts to be included in the `<head>` tag, after the `extra_css` has been added. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
 - extra_footer_js: for additional scripts to be included at the end of the HTML document, just before the site tracking script. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
 
-## Customizing font settings
-
-The fonts can be customized by modifying the `.book.font-family-0` and `.book.font-family-1` entry in [`./assets/gitbook/custom.css`][10],
-
-```css
-.book.font-family-0 {
-    font-family: "Galmuri7", Georgia, serif;
-}
-.book.font-family-1 {
-    font-family: Galmuri7, "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-```
 
 ## Tips, Warnings and Dangers blocks
 
