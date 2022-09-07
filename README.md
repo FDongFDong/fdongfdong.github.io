@@ -1,18 +1,16 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: FDongFDong Gitbook Theme
 permalink: /
 ---
 
 Make Jelly site have a GitBook look!
 
-## Demo
+## Github
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+Github Pages: [https://github.com/FdongFdong](https://github.com/FdongFdong)
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
-
-## Why Jekyll with GitBook
+## Email
 
 GitBook is an amazing frontend style to present and organize contents (such as book chapters
 and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
@@ -114,10 +112,10 @@ The fonts can be customized by modifying the `.book.font-family-0` and `.book.fo
 
 ```css
 .book.font-family-0 {
-    font-family: Georgia, serif;
+    font-family: "Galmuri7", Georgia, serif;
 }
 .book.font-family-1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Galmuri7, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 ```
 
